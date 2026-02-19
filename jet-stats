@@ -1,0 +1,36 @@
+[
+  {
+    "jet_details": {
+      "name": "Union Jet"
+    },
+    "stats": {
+      "anti_air_atk": 64400,
+      "anti_ground_atk": 20203,
+      "anti_ship_atk": 45524,
+      "specialty_atk": 661,
+      "critical_chance": "288.0%",
+      "edac": 0,
+      "armor": 41314,
+      "durability": 387831,
+      "accuracy": 11136,
+      "evasion": "66.7%"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Delta-Navy"
+    },
+    "stats": {
+      "anti_air_atk": 63485,
+      "anti_ground_atk": 61029,
+      "anti_ship_atk": 62596,
+      "specialty_atk": 521,
+      "critical_chance": "268.0%",
+      "edac": 0,
+      "armor": 31478,
+      "durability": 422390,
+      "accuracy": 10409,
+      "evasion": "40.6%"
+    }
+  }
+]
