@@ -94,5 +94,29 @@
       "specialty_atk": 419, "critical_chance": "205.0%", "edac": 0, "armor": 13974,
       "durability": 198855, "accuracy": 9600, "evasion": "38.9%"
     }
+  },
+  {
+    "jet_details": { "name": "F-35 THUNDERSTORM" },
+    "stats": {
+      "anti_air_atk": 39656, "anti_ground_atk": 50219, "anti_ship_atk": 26166,
+      "specialty_atk": 377, "critical_chance": "206.0%", "edac": 0, "armor": 13023,
+      "durability": 189441, "accuracy": 9901, "evasion": "41.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "Su-47 White Wing" },
+    "stats": {
+      "anti_air_atk": 54907, "anti_ground_atk": 34177, "anti_ship_atk": 67135,
+      "specialty_atk": 515, "critical_chance": "79.0%", "edac": 0, "armor": 21617,
+      "durability": 493360, "accuracy": 7262, "evasion": "65.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-18 B-III" },
+    "stats": {
+      "anti_air_atk": 48178, "anti_ground_atk": 34593, "anti_ship_atk": 40304,
+      "specialty_atk": 234, "critical_chance": "350.0%", "edac": 0, "armor": 15633,
+      "durability": 169452, "accuracy": 7305, "evasion": "32.2%"
+    }
   }
 ]
