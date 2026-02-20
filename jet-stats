@@ -648,5 +648,59 @@
       "evasion": "34.1%",
       "specialty_atk": "xxx"
     }
+  },
+{
+    "jet_details": {
+      "name": "Shadow Eagle",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 35710,
+      "anti_ground_atk": 52797,
+      "anti_ship_atk": 25544,
+      "critical_chance": "216.0%",
+      "edac": 0,
+      "armor": 11940,
+      "durability": 185076,
+      "accuracy": 8566,
+      "evasion": "37.6%",
+      "specialty_atk": "240"
+    }
+  },
+{
+    "jet_details": {
+      "name": "F-14 Tiger",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 35406,
+      "anti_ground_atk": 31550,
+      "anti_ship_atk": 18918,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 13623,
+      "durability": 174336,
+      "accuracy": 7748,
+      "evasion": "36.0%",
+      "specialty_atk": "240"
+    }
+  },
+{
+    "jet_details": {
+      "name": "Su-47",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 34751,
+      "anti_ground_atk": 21076,
+      "anti_ship_atk": 35966,
+      "critical_chance": "245.0%",
+      "edac": 0,
+      "armor": 9822,
+      "durability": 230547,
+      "accuracy": 8199,
+      "evasion": "42.0%",
+      "specialty_atk": "203"
+    }
   }
 ]
