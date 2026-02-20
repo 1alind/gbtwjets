@@ -651,5 +651,23 @@
       "evasion": "42.0%",
       "specialty_atk": "203"
     }
+  },
+{
+    "jet_details": {
+      "name": "A10 Razorback",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 32460,
+      "anti_ground_atk": 23374,
+      "anti_ship_atk": 38733,
+      "critical_chance": "224.0%",
+      "edac": 0,
+      "armor": 9345,
+      "durability": 219801,
+      "accuracy": 7936,
+      "evasion": "39.4%",
+      "specialty_atk": "408"
+    }
   }
 ]
