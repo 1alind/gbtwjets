@@ -114,7 +114,7 @@
   {
     "jet_details": { "name": "F-18 B-III" },
     "stats": {
-      "anti_air_atk": 48178, "anti_ground_atk": 34593, "anti_ship_atk": 40304,
+      "anti_air_atk": 48178, "anti_ground_atk": 34593, "anti_ship_atk": 80,608,
       "specialty_atk": 234, "critical_chance": "350.0%", "edac": 0, "armor": 15633,
       "durability": 169452, "accuracy": 7305, "evasion": "32.2%"
     }
@@ -122,7 +122,7 @@
   {
     "jet_details": { "name": "YF-22" },
     "stats": {
-      "anti_air_atk": 38345, "anti_ground_atk": 24897, "anti_ship_atk": 27146,
+      "anti_air_atk": 115035, "anti_ground_atk": 24897, "anti_ship_atk": 27146,
       "specialty_atk": 244, "critical_chance": "163.0%", "edac": 0, "armor": 21741,
       "durability": 100266, "accuracy": 8296, "evasion": "38.3%"
     }
@@ -130,7 +130,7 @@
   {
     "jet_details": { "name": "Growler" },
     "stats": {
-      "anti_air_atk": 37619, "anti_ground_atk": 40310, "anti_ship_atk": 32711,
+      "anti_air_atk": 37619, "anti_ground_atk": 40310, "anti_ship_atk": 52337.6,
       "specialty_atk": 363,
       "critical_chance": "219.0%", "edac": 0, "armor": 11106,
       "durability": 197178,
@@ -141,7 +141,7 @@
   {
     "jet_details": { "name": "F-117 Nighthawk" },
     "stats": {
-      "anti_air_atk": 36659, "anti_ground_atk": 67190, "anti_ship_atk": 41257,
+      "anti_air_atk": 36659, "anti_ground_atk": 201570, "anti_ship_atk": 123771,
       "specialty_atk": 192,
       "critical_chance": "279.0%",
       "edac": 0,
@@ -154,7 +154,7 @@
   {
     "jet_details": { "name": "TEJAS" },
     "stats": {
-      "anti_air_atk": 36321,
+      "anti_air_atk": 108963,
       "anti_ground_atk": 26881,
       "anti_ship_atk": 38683,
       "specialty_atk": 653,
@@ -169,7 +169,7 @@
   {
     "jet_details": { "name": "F-15 Active" },
     "stats": {
-      "anti_air_atk": 36588,
+      "anti_air_atk": 109764,
       "anti_ground_atk": 22233,
       "anti_ship_atk": 20322,
       "specialty_atk": 251,
@@ -184,7 +184,7 @@
   {
     "jet_details": { "name": "Red Dragon" },
     "stats": {
-      "anti_air_atk": 42138,
+      "anti_air_atk": 126414,
       "anti_ground_atk": 34318,
       "anti_ship_atk": 22990,
       "specialty_atk": 408,
@@ -199,9 +199,9 @@
   {
     "jet_details": { "name": "AF-100N RAVEN" },
     "stats": {
-      "anti_air_atk": 41295,
-      "anti_ground_atk": 24023,
-      "anti_ship_atk": 31037,
+      "anti_air_atk": 82590,
+      "anti_ground_atk": 48046,
+      "anti_ship_atk": 62074,
       "specialty_atk": 490,
       "critical_chance": "228.0%",
       "edac": 0,
@@ -216,7 +216,7 @@
     "stats": {
       "anti_air_atk": 41249,
       "anti_ground_atk": 33834,
-      "anti_ship_atk": 28097,
+      "anti_ship_atk": 46350.05,
       "specialty_atk": 180,
       "critical_chance": "247.0%",
       "edac": 0,
@@ -229,9 +229,9 @@
   {
     "jet_details": { "name": "Flatpack 1.44" },
     "stats": {
-      "anti_air_atk": 40031,
-      "anti_ground_atk": 34318,
-      "anti_ship_atk": 25289,
+      "anti_air_atk": 80062,
+      "anti_ground_atk": 68636,
+      "anti_ship_atk": 50578,
       "specialty_atk": 592,
       "critical_chance": "228.0%",
       "edac": 0,
@@ -244,7 +244,7 @@
   {
     "jet_details": { "name": "KF-21 Boramae" },
     "stats": {
-      "anti_air_atk": 38934,
+      "anti_air_atk": 116802,
       "anti_ground_atk": 29109,
       "anti_ship_atk": 24305,
       "specialty_atk": 254,
@@ -259,9 +259,9 @@
   {
     "jet_details": { "name": "Euro Stealth" },
     "stats": {
-      "anti_air_atk": 40680,
+      "anti_air_atk": 101700,
       "anti_ground_atk": 59414,
-      "anti_ship_atk": 55246,
+      "anti_ship_atk": 138115,
       "specialty_atk": 450,
       "critical_chance": "300.0%",
       "edac": 302,
@@ -274,7 +274,7 @@
   {
     "jet_details": { "name": "Cyclone LTS" },
     "stats": {
-      "anti_air_atk": 37980,
+      "anti_air_atk": 113940,
       "anti_ground_atk": 27924,
       "anti_ship_atk": 19694,
       "specialty_atk": 245,
@@ -290,7 +290,7 @@
     "jet_details": { "name": "Fulcrum 35" },
     "stats": {
       "anti_air_atk": 37656,
-      "anti_ground_atk": 50127,
+      "anti_ground_atk": 150381,
       "anti_ship_atk": 21249,
       "specialty_atk": 188,
       "critical_chance": "212.0%",
@@ -306,7 +306,7 @@
     "stats": {
       "anti_air_atk": 37325,
       "anti_ground_atk": 37671,
-      "anti_ship_atk": 29916,
+      "anti_ship_atk": 49312.4,
       "specialty_atk": 179,
       "critical_chance": "202.0%",
       "edac": 0,
@@ -319,7 +319,7 @@
   {
     "jet_details": { "name": "Tigershark" },
     "stats": {
-      "anti_air_atk": 38804,
+      "anti_air_atk": 116412,
       "anti_ground_atk": 31930,
       "anti_ship_atk": 17764,
       "specialty_atk": 240,
@@ -334,7 +334,7 @@
   {
     "jet_details": { "name": "YF-23" },
     "stats": {
-      "anti_air_atk": 36982,
+      "anti_air_atk": 110946,
       "anti_ground_atk": 26406,
       "anti_ship_atk": 18173,
       "specialty_atk": 240,
@@ -350,7 +350,7 @@
     "jet_details": { "name": "Griffin 39" },
     "stats": {
       "anti_air_atk": 36016,
-      "anti_ground_atk": 46206,
+      "anti_ground_atk": 138618,
       "anti_ship_atk": 22487,
       "specialty_atk": 228,
       "critical_chance": "202.0%",
@@ -368,7 +368,7 @@
     },
     "stats": {
       "anti_air_atk": 20032,
-      "anti_ground_atk": 23485,
+      "anti_ground_atk": 37576,
       "anti_ship_atk": 16722,
       "critical_chance": "201.0%",
       "edac": 0,
@@ -385,7 +385,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 23289,
+      "anti_air_atk": 69867,
       "anti_ground_atk": 25010,
       "anti_ship_atk": 9494,
       "critical_chance": "201.0%",
@@ -405,7 +405,7 @@
     "stats": {
       "anti_air_atk": 16107,
       "anti_ground_atk": 53354,
-      "anti_ship_atk": 41335,
+      "anti_ship_atk": 68002.75,
       "critical_chance": "202.0%",
       "edac": 0,
       "armor": 12597,
@@ -423,7 +423,7 @@
     "stats": {
       "anti_air_atk": 19032,
       "anti_ground_atk": 20746,
-      "anti_ship_atk": 14229,
+      "anti_ship_atk": 23468.85,
       "critical_chance": "201.0%",
       "edac": 0,
       "armor": 7119,
@@ -440,7 +440,7 @@
     },
     "stats": {
       "anti_air_atk": 14953,
-      "anti_ground_atk": 58981,
+      "anti_ground_atk": 176943,
       "anti_ship_atk": 17543,
       "critical_chance": "201.0%",
       "edac": 0,
@@ -459,7 +459,7 @@
     "stats": {
       "anti_air_atk": 21640,
       "anti_ground_atk": 29219,
-      "anti_ship_atk": 35308,
+      "anti_ship_atk": 58260.2,
       "critical_chance": "201.0%",
       "edac": 0,
       "armor": 10929,
@@ -476,7 +476,7 @@
     },
     "stats": {
       "anti_air_atk": 18702,
-      "anti_ground_atk": 64048,
+      "anti_ground_atk": 192144,
       "anti_ship_atk": 16054,
       "critical_chance": "201.0%",
       "edac": 0,
@@ -493,7 +493,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 18332,
+      "anti_air_atk": 54996,
       "anti_ground_atk": 26916,
       "anti_ship_atk": 20056,
       "critical_chance": "201.0%",
@@ -511,7 +511,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 27828,
+      "anti_air_atk": 83484,
       "anti_ground_atk": 49644,
       "anti_ship_atk": 14931,
       "critical_chance": "201.0%",
@@ -529,7 +529,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 29826,
+      "anti_air_atk": 89478,
       "anti_ground_atk": 33390,
       "anti_ship_atk": 20624,
       "critical_chance": "262.0%",
@@ -549,7 +549,7 @@
     "stats": {
       "anti_air_atk": 32460,
       "anti_ground_atk": 23374,
-      "anti_ship_atk": 38733,
+      "anti_ship_atk": 63859.45,
       "critical_chance": "224.0%",
       "edac": 0,
       "armor": 9345,
@@ -566,7 +566,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 49483,
+      "anti_air_atk": 148449,
       "anti_ground_atk": 22821,
       "anti_ship_atk": 42687,
       "critical_chance": "241.0%",
@@ -586,7 +586,7 @@
     "stats": {
       "anti_air_atk": 32746,
       "anti_ground_atk": 40355,
-      "anti_ship_atk": 24970,
+      "anti_ship_atk": 41200.5,
       "critical_chance": "201.0%",
       "edac": 0,
       "armor": 10512,
@@ -604,7 +604,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 35710,
+      "anti_air_atk": 107130,
       "anti_ground_atk": 52797,
       "anti_ship_atk": 25544,
       "critical_chance": "216.0%",
@@ -622,7 +622,7 @@
       "rarity": "Legendary"
     },
     "stats": {
-      "anti_air_atk": 35406,
+      "anti_air_atk": 106218,
       "anti_ground_atk": 31550,
       "anti_ship_atk": 18918,
       "critical_chance": "201.0%",
@@ -642,7 +642,7 @@
     "stats": {
       "anti_air_atk": 34751,
       "anti_ground_atk": 21076,
-      "anti_ship_atk": 35966,
+      "anti_ship_atk": 59343.9,
       "critical_chance": "245.0%",
       "edac": 0,
       "armor": 9822,
@@ -660,7 +660,7 @@
     "stats": {
       "anti_air_atk": 32460,
       "anti_ground_atk": 23374,
-      "anti_ship_atk": 38733,
+      "anti_ship_atk": 63859.45,
       "critical_chance": "224.0%",
       "edac": 0,
       "armor": 9345,
@@ -678,7 +678,7 @@
     "stats": {
       "anti_air_atk": 34031,
       "anti_ground_atk": 23709,
-      "anti_ship_atk": 37255,
+      "anti_ship_atk": 61460.75,
       "critical_chance": "225.0%",
       "edac": 0,
       "armor": 10992,
