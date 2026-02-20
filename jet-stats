@@ -74,7 +74,7 @@
   {
     "jet_details": { "name": "FS2020" },
     "stats": {
-      "anti_air_atk": 45260, "anti_ground_atk": 37607, "anti_ship_atk": 39864,
+      "anti_air_atk": 153,776, "anti_ground_atk": 37607, "anti_ship_atk": 39864,
       "specialty_atk": 409, "critical_chance": "114.0%", "edac": 0, "armor": 10407,
       "durability": 102765, "accuracy": 9609, "evasion": "94.8%"
     }
@@ -82,7 +82,7 @@
   {
     "jet_details": { "name": "Echo Aggressor" },
     "stats": {
-      "anti_air_atk": 54022, "anti_ground_atk": 23270, "anti_ship_atk": 42452,
+      "anti_air_atk": 54022, "anti_ground_atk": 23270, "anti_ship_atk": 84,904,
       "specialty_atk": 206, "critical_chance": "237.0%", "edac": 217, "armor": 9807,
       "durability": 108933, "accuracy": 6432, "evasion": "33.2%"
     }
@@ -90,7 +90,7 @@
   {
     "jet_details": { "name": "PF Drake" },
     "stats": {
-      "anti_air_atk": 44275, "anti_ground_atk": 43393, "anti_ship_atk": 30531,
+      "anti_air_atk": 110,687.5, "anti_ground_atk": 43393, "anti_ship_atk": 76,327.5,
       "specialty_atk": 419, "critical_chance": "205.0%", "edac": 0, "armor": 13974,
       "durability": 198855, "accuracy": 9600, "evasion": "38.9%"
     }
@@ -98,7 +98,7 @@
   {
     "jet_details": { "name": "F-35 THUNDERSTORM" },
     "stats": {
-      "anti_air_atk": 39656, "anti_ground_atk": 50219, "anti_ship_atk": 26166,
+      "anti_air_atk": 99,140, "anti_ground_atk": 50219, "anti_ship_atk": 65,415,
       "specialty_atk": 377, "critical_chance": "206.0%", "edac": 0, "armor": 13023,
       "durability": 189441, "accuracy": 9901, "evasion": "41.2%"
     }
@@ -106,7 +106,7 @@
   {
     "jet_details": { "name": "Su-47 White Wing" },
     "stats": {
-      "anti_air_atk": 54907, "anti_ground_atk": 34177, "anti_ship_atk": 67135,
+      "anti_air_atk": 54907, "anti_ground_atk": 34177, "anti_ship_atk": 167,837.5,
       "specialty_atk": 515, "critical_chance": "79.0%", "edac": 0, "armor": 21617,
       "durability": 493360, "accuracy": 7262, "evasion": "65.2%"
     }
