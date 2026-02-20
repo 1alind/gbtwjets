@@ -2,7 +2,7 @@
   {
     "jet_details": { "name": "Union Jet" },
     "stats": {
-      "anti_air_atk": 193,200, "anti_ground_atk": 20203, "anti_ship_atk": 159,334,
+      "anti_air_atk": 193200, "anti_ground_atk": 20203, "anti_ship_atk": 159334,
       "specialty_atk": 661, "critical_chance": "288.0%", "edac": 0, "armor": 41314,
       "durability": 387831, "accuracy": 11136, "evasion": "66.7%"
     }
@@ -10,7 +10,7 @@
   {
     "jet_details": { "name": "Delta-Navy" },
     "stats": {
-      "anti_air_atk": 158,712.5, "anti_ground_atk": 61029, "anti_ship_atk": 156,490,
+      "anti_air_atk": 158712.5, "anti_ground_atk": 61029, "anti_ship_atk": 156490,
       "specialty_atk": 521, "critical_chance": "268.0%", "edac": 0, "armor": 31478,
       "durability": 422390, "accuracy": 10409, "evasion": "40.6%"
     }
@@ -18,7 +18,7 @@
   {
     "jet_details": { "name": "EF VORTEX 2020" },
     "stats": {
-      "anti_air_atk": 188,553, "anti_ground_atk": 61030, "anti_ship_atk": 34428,
+      "anti_air_atk": 188553, "anti_ground_atk": 61030, "anti_ship_atk": 34428,
       "specialty_atk": 677, "critical_chance": "276.0%", "edac": 0, "armor": 32108,
       "durability": 411133, "accuracy": 9993, "evasion": "54.3%"
     }
@@ -26,7 +26,7 @@
   {
     "jet_details": { "name": "Ash Predator" },
     "stats": {
-      "anti_air_atk": 120,108, "anti_ground_atk": 120,010, "anti_ship_atk": 125,464,
+      "anti_air_atk": 120108, "anti_ground_atk": 120010, "anti_ship_atk": 125464,
       "specialty_atk": 385, "critical_chance": "330.0%", "edac": 0, "armor": 35412,
       "durability": 403191, "accuracy": 12355, "evasion": "72.1%"
     }
@@ -34,7 +34,7 @@
   {
     "jet_details": { "name": "F-22 Raptor" },
     "stats": {
-      "anti_air_atk": 220,028.5, "anti_ground_atk": 217,273, "anti_ship_atk": 220,317.5,
+      "anti_air_atk": 220028.5, "anti_ground_atk": 217273, "anti_ship_atk": 220317.5,
       "specialty_atk": 874, "critical_chance": "225.0%", "edac": 0, "armor": 19506,
       "durability": 203118, "accuracy": 20774, "evasion": "63.9%"
     }
@@ -42,7 +42,7 @@
   {
     "jet_details": { "name": "F-4 Spearhead" },
     "stats": {
-      "anti_air_atk": 142,985, "anti_ground_atk": 42089, "anti_ship_atk": 142,262.5,
+      "anti_air_atk": 142985, "anti_ground_atk": 42089, "anti_ship_atk": 142262.5,
       "specialty_atk": 453, "critical_chance": "412.0%", "edac": 0, "armor": 39347,
       "durability": 383991, "accuracy": 9051, "evasion": "90.2%"
     }
@@ -50,7 +50,7 @@
   {
     "jet_details": { "name": "F-14 Jolly Roger" },
     "stats": {
-      "anti_air_atk": 48884, "anti_ground_atk": 41264, "anti_ship_atk": 65,034,
+      "anti_air_atk": 48884, "anti_ground_atk": 41264, "anti_ship_atk": 65034,
       "specialty_atk": 245, "critical_chance": "266.0%", "edac": 0, "armor": 30267,
       "durability": 479989, "accuracy": 5765, "evasion": "50.1%"
     }
@@ -58,7 +58,7 @@
   {
     "jet_details": { "name": "PF-57" },
     "stats": {
-      "anti_air_atk": 149,499, "anti_ground_atk": 58988, "anti_ship_atk": 87,762,
+      "anti_air_atk": 149499, "anti_ground_atk": 58988, "anti_ship_atk": 87762,
       "specialty_atk": 858, "critical_chance": "227.0%", "edac": 0, "armor": 18636,
       "durability": 235179, "accuracy": 12222, "evasion": "45.6%"
     }
@@ -66,7 +66,7 @@
   {
     "jet_details": { "name": "Basilisk" },
     "stats": {
-      "anti_air_atk": 113,995, "anti_ground_atk": 42692, "anti_ship_atk": 66,992.5,
+      "anti_air_atk": 113995, "anti_ground_atk": 42692, "anti_ship_atk": 66992.5,
       "specialty_atk": 433, "critical_chance": "162.0%", "edac": 0, "armor": 24375,
       "durability": 107688, "accuracy": 9626, "evasion": "39.8%"
     }
@@ -74,7 +74,7 @@
   {
     "jet_details": { "name": "FS2020" },
     "stats": {
-      "anti_air_atk": 153,776, "anti_ground_atk": 37607, "anti_ship_atk": 39864,
+      "anti_air_atk": 153776, "anti_ground_atk": 37607, "anti_ship_atk": 39864,
       "specialty_atk": 409, "critical_chance": "114.0%", "edac": 0, "armor": 10407,
       "durability": 102765, "accuracy": 9609, "evasion": "94.8%"
     }
@@ -82,7 +82,7 @@
   {
     "jet_details": { "name": "Echo Aggressor" },
     "stats": {
-      "anti_air_atk": 54022, "anti_ground_atk": 23270, "anti_ship_atk": 84,904,
+      "anti_air_atk": 54022, "anti_ground_atk": 23270, "anti_ship_atk": 84904,
       "specialty_atk": 206, "critical_chance": "237.0%", "edac": 217, "armor": 9807,
       "durability": 108933, "accuracy": 6432, "evasion": "33.2%"
     }
@@ -90,7 +90,7 @@
   {
     "jet_details": { "name": "PF Drake" },
     "stats": {
-      "anti_air_atk": 110,687.5, "anti_ground_atk": 43393, "anti_ship_atk": 76,327.5,
+      "anti_air_atk": 110687.5, "anti_ground_atk": 43393, "anti_ship_atk": 76327.5,
       "specialty_atk": 419, "critical_chance": "205.0%", "edac": 0, "armor": 13974,
       "durability": 198855, "accuracy": 9600, "evasion": "38.9%"
     }
@@ -98,7 +98,7 @@
   {
     "jet_details": { "name": "F-35 THUNDERSTORM" },
     "stats": {
-      "anti_air_atk": 99,140, "anti_ground_atk": 50219, "anti_ship_atk": 65,415,
+      "anti_air_atk": 99140, "anti_ground_atk": 50219, "anti_ship_atk": 65415,
       "specialty_atk": 377, "critical_chance": "206.0%", "edac": 0, "armor": 13023,
       "durability": 189441, "accuracy": 9901, "evasion": "41.2%"
     }
@@ -106,7 +106,7 @@
   {
     "jet_details": { "name": "Su-47 White Wing" },
     "stats": {
-      "anti_air_atk": 54907, "anti_ground_atk": 34177, "anti_ship_atk": 167,837.5,
+      "anti_air_atk": 54907, "anti_ground_atk": 34177, "anti_ship_atk": 167837.5,
       "specialty_atk": 515, "critical_chance": "79.0%", "edac": 0, "armor": 21617,
       "durability": 493360, "accuracy": 7262, "evasion": "65.2%"
     }
