@@ -1,0 +1,652 @@
+[
+  {
+    "jet_details": { "name": "Union Jet" },
+    "stats": {
+      "anti_air_atk": 64400, "anti_ground_atk": 20203, "anti_ship_atk": 45524,
+      "specialty_atk": 661, "critical_chance": "288.0%", "edac": 0, "armor": 41314,
+      "durability": 387831, "accuracy": 11136, "evasion": "66.7%"
+    }
+  },
+  {
+    "jet_details": { "name": "Delta-Navy" },
+    "stats": {
+      "anti_air_atk": 63485, "anti_ground_atk": 61029, "anti_ship_atk": 62596,
+      "specialty_atk": 521, "critical_chance": "268.0%", "edac": 0, "armor": 31478,
+      "durability": 422390, "accuracy": 10409, "evasion": "40.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "EF VORTEX 2020" },
+    "stats": {
+      "anti_air_atk": 62851, "anti_ground_atk": 61030, "anti_ship_atk": 34428,
+      "specialty_atk": 677, "critical_chance": "276.0%", "edac": 0, "armor": 32108,
+      "durability": 411133, "accuracy": 9993, "evasion": "54.3%"
+    }
+  },
+  {
+    "jet_details": { "name": "Ash Predator" },
+    "stats": {
+      "anti_air_atk": 60054, "anti_ground_atk": 60005, "anti_ship_atk": 62732,
+      "specialty_atk": 385, "critical_chance": "330.0%", "edac": 0, "armor": 35412,
+      "durability": 403191, "accuracy": 12355, "evasion": "72.1%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-22 Raptor" },
+    "stats": {
+      "anti_air_atk": 63151, "anti_ground_atk": 62078, "anti_ship_atk": 62919,
+      "specialty_atk": 874, "critical_chance": "225.0%", "edac": 0, "armor": 19506,
+      "durability": 203118, "accuracy": 20774, "evasion": "63.9%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-4 Spearhead" },
+    "stats": {
+      "anti_air_atk": 57194, "anti_ground_atk": 42089, "anti_ship_atk": 56905,
+      "specialty_atk": 453, "critical_chance": "412.0%", "edac": 0, "armor": 39347,
+      "durability": 383991, "accuracy": 9051, "evasion": "90.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-14 Jolly Roger" },
+    "stats": {
+      "anti_air_atk": 48884, "anti_ground_atk": 41264, "anti_ship_atk": 32517,
+      "specialty_atk": 245, "critical_chance": "266.0%", "edac": 0, "armor": 30267,
+      "durability": 479989, "accuracy": 5765, "evasion": "50.1%"
+    }
+  },
+  {
+    "jet_details": { "name": "PF-57" },
+    "stats": {
+      "anti_air_atk": 49833, "anti_ground_atk": 58988, "anti_ship_atk": 29254,
+      "specialty_atk": 858, "critical_chance": "227.0%", "edac": 0, "armor": 18636,
+      "durability": 235179, "accuracy": 12222, "evasion": "45.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "Basilisk" },
+    "stats": {
+      "anti_air_atk": 45598, "anti_ground_atk": 42692, "anti_ship_atk": 26797,
+      "specialty_atk": 433, "critical_chance": "162.0%", "edac": 0, "armor": 24375,
+      "durability": 107688, "accuracy": 9626, "evasion": "39.8%"
+    }
+  },
+  {
+    "jet_details": { "name": "FS2020" },
+    "stats": {
+      "anti_air_atk": 45260, "anti_ground_atk": 37607, "anti_ship_atk": 39864,
+      "specialty_atk": 409, "critical_chance": "114.0%", "edac": 0, "armor": 10407,
+      "durability": 102765, "accuracy": 9609, "evasion": "94.8%"
+    }
+  },
+  {
+    "jet_details": { "name": "Echo Aggressor" },
+    "stats": {
+      "anti_air_atk": 54022, "anti_ground_atk": 23270, "anti_ship_atk": 42452,
+      "specialty_atk": 206, "critical_chance": "237.0%", "edac": 217, "armor": 9807,
+      "durability": 108933, "accuracy": 6432, "evasion": "33.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "PF Drake" },
+    "stats": {
+      "anti_air_atk": 44275, "anti_ground_atk": 43393, "anti_ship_atk": 30531,
+      "specialty_atk": 419, "critical_chance": "205.0%", "edac": 0, "armor": 13974,
+      "durability": 198855, "accuracy": 9600, "evasion": "38.9%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-35 THUNDERSTORM" },
+    "stats": {
+      "anti_air_atk": 39656, "anti_ground_atk": 50219, "anti_ship_atk": 26166,
+      "specialty_atk": 377, "critical_chance": "206.0%", "edac": 0, "armor": 13023,
+      "durability": 189441, "accuracy": 9901, "evasion": "41.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "Su-47 White Wing" },
+    "stats": {
+      "anti_air_atk": 54907, "anti_ground_atk": 34177, "anti_ship_atk": 67135,
+      "specialty_atk": 515, "critical_chance": "79.0%", "edac": 0, "armor": 21617,
+      "durability": 493360, "accuracy": 7262, "evasion": "65.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-18 B-III" },
+    "stats": {
+      "anti_air_atk": 48178, "anti_ground_atk": 34593, "anti_ship_atk": 40304,
+      "specialty_atk": 234, "critical_chance": "350.0%", "edac": 0, "armor": 15633,
+      "durability": 169452, "accuracy": 7305, "evasion": "32.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "YF-22" },
+    "stats": {
+      "anti_air_atk": 38345, "anti_ground_atk": 24897, "anti_ship_atk": 27146,
+      "specialty_atk": 244, "critical_chance": "163.0%", "edac": 0, "armor": 21741,
+      "durability": 100266, "accuracy": 8296, "evasion": "38.3%"
+    }
+  },
+  {
+    "jet_details": { "name": "Growler" },
+    "stats": {
+      "anti_air_atk": 37619, "anti_ground_atk": 40310, "anti_ship_atk": 32711,
+      "specialty_atk": 363,
+      "critical_chance": "219.0%", "edac": 0, "armor": 11106,
+      "durability": 197178,
+      "accuracy": 4263,
+      "evasion": "39.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-117 Nighthawk" },
+    "stats": {
+      "anti_air_atk": 36659, "anti_ground_atk": 67190, "anti_ship_atk": 41257,
+      "specialty_atk": 192,
+      "critical_chance": "279.0%",
+      "edac": 0,
+      "armor": 12459,
+      "durability": 231900,
+      "accuracy": 7752,
+      "evasion": "39.9%"
+    }
+  },
+  {
+    "jet_details": { "name": "TEJAS" },
+    "stats": {
+      "anti_air_atk": 36321,
+      "anti_ground_atk": 26881,
+      "anti_ship_atk": 38683,
+      "specialty_atk": 653,
+      "critical_chance": "143.0%",
+      "edac": 0,
+      "armor": 12594,
+      "durability": 104175,
+      "accuracy": 9244,
+      "evasion": "23.7%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-15 Active" },
+    "stats": {
+      "anti_air_atk": 36588,
+      "anti_ground_atk": 22233,
+      "anti_ship_atk": 20322,
+      "specialty_atk": 251,
+      "critical_chance": "271.0%",
+      "edac": 0,
+      "armor": 15570,
+      "durability": 189402,
+      "accuracy": 7910,
+      "evasion": "39.4%"
+    }
+  },
+  {
+    "jet_details": { "name": "Red Dragon" },
+    "stats": {
+      "anti_air_atk": 42138,
+      "anti_ground_atk": 34318,
+      "anti_ship_atk": 22990,
+      "specialty_atk": 408,
+      "critical_chance": "240.0%",
+      "edac": 0,
+      "armor": 22089,
+      "durability": 201733,
+      "accuracy": 5568,
+      "evasion": "26.3%"
+    }
+  },
+  {
+    "jet_details": { "name": "AF-100N RAVEN" },
+    "stats": {
+      "anti_air_atk": 41295,
+      "anti_ground_atk": 24023,
+      "anti_ship_atk": 31037,
+      "specialty_atk": 490,
+      "critical_chance": "228.0%",
+      "edac": 0,
+      "armor": 18776,
+      "durability": 211820,
+      "accuracy": 6013,
+      "evasion": "27.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "KF-21 Athena" },
+    "stats": {
+      "anti_air_atk": 41249,
+      "anti_ground_atk": 33834,
+      "anti_ship_atk": 28097,
+      "specialty_atk": 180,
+      "critical_chance": "247.0%",
+      "edac": 0,
+      "armor": 22812,
+      "durability": 132891,
+      "accuracy": 7271,
+      "evasion": "35.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "Flatpack 1.44" },
+    "stats": {
+      "anti_air_atk": 40031,
+      "anti_ground_atk": 34318,
+      "anti_ship_atk": 25289,
+      "specialty_atk": 592,
+      "critical_chance": "228.0%",
+      "edac": 0,
+      "armor": 19880,
+      "durability": 203750,
+      "accuracy": 5846,
+      "evasion": "27.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "KF-21 Boramae" },
+    "stats": {
+      "anti_air_atk": 38934,
+      "anti_ground_atk": 29109,
+      "anti_ship_atk": 24305,
+      "specialty_atk": 254,
+      "critical_chance": "182.0%",
+      "edac": 0,
+      "armor": 10755,
+      "durability": 203472,
+      "accuracy": 7851,
+      "evasion": "35.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "Euro Stealth" },
+    "stats": {
+      "anti_air_atk": 40680,
+      "anti_ground_atk": 59414,
+      "anti_ship_atk": 55246,
+      "specialty_atk": 450,
+      "critical_chance": "300.0%",
+      "edac": 302,
+      "armor": 22154,
+      "durability": 451231,
+      "accuracy": 7513,
+      "evasion": "51.5%"
+    }
+  },
+  {
+    "jet_details": { "name": "Cyclone LTS" },
+    "stats": {
+      "anti_air_atk": 37980,
+      "anti_ground_atk": 27924,
+      "anti_ship_atk": 19694,
+      "specialty_atk": 245,
+      "critical_chance": "267.0%",
+      "edac": 0,
+      "armor": 14646,
+      "durability": 197067,
+      "accuracy": 8564,
+      "evasion": "41.2%"
+    }
+  },
+  {
+    "jet_details": { "name": "Fulcrum 35" },
+    "stats": {
+      "anti_air_atk": 37656,
+      "anti_ground_atk": 50127,
+      "anti_ship_atk": 21249,
+      "specialty_atk": 188,
+      "critical_chance": "212.0%",
+      "edac": 0,
+      "armor": 12549,
+      "durability": 177108,
+      "accuracy": 8971,
+      "evasion": "38.4%"
+    }
+  },
+  {
+    "jet_details": { "name": "F-4 BlackWolf" },
+    "stats": {
+      "anti_air_atk": 37325,
+      "anti_ground_atk": 37671,
+      "anti_ship_atk": 29916,
+      "specialty_atk": 179,
+      "critical_chance": "202.0%",
+      "edac": 0,
+      "armor": 20700,
+      "durability": 135897,
+      "accuracy": 6960,
+      "evasion": "33.6%"
+    }
+  },
+  {
+    "jet_details": { "name": "Tigershark" },
+    "stats": {
+      "anti_air_atk": 38804,
+      "anti_ground_atk": 31930,
+      "anti_ship_atk": 17764,
+      "specialty_atk": 240,
+      "critical_chance": "202.0%",
+      "edac": 0,
+      "armor": 14319,
+      "durability": 167967,
+      "accuracy": 7952,
+      "evasion": "36.7%"
+    }
+  },
+  {
+    "jet_details": { "name": "YF-23" },
+    "stats": {
+      "anti_air_atk": 36982,
+      "anti_ground_atk": 26406,
+      "anti_ship_atk": 18173,
+      "specialty_atk": 240,
+      "critical_chance": "227.0%",
+      "edac": 217,
+      "armor": 10035,
+      "durability": 143475,
+      "accuracy": 4014,
+      "evasion": "37.4%"
+    }
+  },
+  {
+    "jet_details": { "name": "Griffin 39" },
+    "stats": {
+      "anti_air_atk": 36016,
+      "anti_ground_atk": 46206,
+      "anti_ship_atk": 22487,
+      "specialty_atk": 228,
+      "critical_chance": "202.0%",
+      "edac": 0,
+      "armor": 11577,
+      "durability": 184803,
+      "accuracy": 4733,
+      "evasion": "36.8%"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Desert F-16FF",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 20032,
+      "anti_ground_atk": 23485,
+      "anti_ship_atk": 16722,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 5964,
+      "durability": 106053,
+      "accuracy": 5981,
+      "evasion": "35.2%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "EF2000",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 23289,
+      "anti_ground_atk": 25010,
+      "anti_ship_atk": 9494,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 5088,
+      "durability": 169686,
+      "accuracy": 6435,
+      "evasion": "35.9%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "A10 Tiger Hog",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 16107,
+      "anti_ground_atk": 53354,
+      "anti_ship_atk": 41335,
+      "critical_chance": "202.0%",
+      "edac": 0,
+      "armor": 12597,
+      "durability": 320286,
+      "accuracy": 6915,
+      "evasion": "31.6%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "RF-M",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 19032,
+      "anti_ground_atk": 20746,
+      "anti_ship_atk": 14229,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 7119,
+      "durability": 100581,
+      "accuracy": 5829,
+      "evasion": "35.2%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "A10C",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 14953,
+      "anti_ground_atk": 58981,
+      "anti_ship_atk": 17543,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 11997,
+      "durability": 235023,
+      "accuracy": 4678,
+      "evasion": "35.2%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Foxhound 31",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 21640,
+      "anti_ground_atk": 29219,
+      "anti_ship_atk": 35308,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 10929,
+      "durability": 243006,
+      "accuracy": 6959,
+      "evasion": "36.0%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "IDS",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 18702,
+      "anti_ground_atk": 64048,
+      "anti_ship_atk": 16054,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 10677,
+      "durability": 232524,
+      "accuracy": 4875,
+      "evasion": "35.4%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "KFA-50",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 18332,
+      "anti_ground_atk": 26916,
+      "anti_ship_atk": 20056,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 5025,
+      "durability": 125352,
+      "accuracy": 6434,
+      "evasion": "35.4%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Strike F-15EA",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 27828,
+      "anti_ground_atk": 49644,
+      "anti_ship_atk": 14931,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 10890,
+      "durability": 206211,
+      "accuracy": 7380,
+      "evasion": "35.2%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Su-47 Obj.101",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 29826,
+      "anti_ground_atk": 33390,
+      "anti_ship_atk": 20624,
+      "critical_chance": "262.0%",
+      "edac": 0,
+      "armor": 24801,
+      "durability": 106833,
+      "accuracy": 6978,
+      "evasion": "33.8%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Su-47 Golden Eagle",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 29826,
+      "anti_ground_atk": 33390,
+      "anti_ship_atk": 20624,
+      "critical_chance": "262.0%",
+      "edac": 0,
+      "armor": 24801,
+      "durability": 106833,
+      "accuracy": 6978,
+      "evasion": "33.8%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "F-14 Jolly Roger",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 22150,
+      "anti_ground_atk": 24850,
+      "anti_ship_atk": 32100,
+      "critical_chance": "205.0%",
+      "edac": 0,
+      "armor": 9850,
+      "durability": 215000,
+      "accuracy": 6850,
+      "evasion": "34.5%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "TEMPEST",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 31200,
+      "anti_ground_atk": 28400,
+      "anti_ship_atk": 15500,
+      "critical_chance": "210.0%",
+      "edac": 0,
+      "armor": 11200,
+      "durability": 198000,
+      "accuracy": 7500,
+      "evasion": "38.2%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "YF-23 Gray Ghost",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 24500,
+      "anti_ground_atk": 21000,
+      "anti_ship_atk": 38000,
+      "critical_chance": "201.0%",
+      "edac": 8000,
+      "armor": 8500,
+      "durability": 185000,
+      "accuracy": 7100,
+      "evasion": "37.5%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "F-35 LT II",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 26800,
+      "anti_ground_atk": 35400,
+      "anti_ship_atk": 18200,
+      "critical_chance": "201.0%",
+      "edac": 0,
+      "armor": 9200,
+      "durability": 210000,
+      "accuracy": 6900,
+      "evasion": "36.8%",
+      "specialty_atk": "xxx"
+    }
+  },
+  {
+    "jet_details": {
+      "name": "Golden Hornet",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 19500,
+      "anti_ground_atk": 31000,
+      "anti_ship_atk": 28500,
+      "critical_chance": "200.0%",
+      "edac": 0,
+      "armor": 10500,
+      "durability": 225000,
+      "accuracy": 6200,
+      "evasion": "34.1%",
+      "specialty_atk": "xxx"
+    }
+  }
+]
