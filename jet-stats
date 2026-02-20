@@ -669,5 +669,23 @@
       "evasion": "39.4%",
       "specialty_atk": "408"
     }
+  },
+{
+    "jet_details": {
+      "name": "YF-Agent",
+      "rarity": "Legendary"
+    },
+    "stats": {
+      "anti_air_atk": 34031,
+      "anti_ground_atk": 23709,
+      "anti_ship_atk": 37255,
+      "critical_chance": "225.0%",
+      "edac": 0,
+      "armor": 10992,
+      "durability": 206562,
+      "accuracy": 4038,
+      "evasion": "16.8%",
+      "specialty_atk": "193"
+    }
   }
 ]
