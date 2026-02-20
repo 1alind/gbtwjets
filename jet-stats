@@ -114,7 +114,7 @@
   {
     "jet_details": { "name": "F-18 B-III" },
     "stats": {
-      "anti_air_atk": 48178, "anti_ground_atk": 34593, "anti_ship_atk": 80,608,
+      "anti_air_atk": 48178, "anti_ground_atk": 34593, "anti_ship_atk": 80608,
       "specialty_atk": 234, "critical_chance": "350.0%", "edac": 0, "armor": 15633,
       "durability": 169452, "accuracy": 7305, "evasion": "32.2%"
     }
